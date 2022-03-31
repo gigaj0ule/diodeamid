@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Panelized_THICCEST.PcbDoc]
+   Generated File[Panelized_THICCEST-RoundHoles.TXT]
+   Generated File[Panelized_THICCEST-SlotHoles.TXT]
+   Generated File[Panelized_THICCEST.LDP]
+   Generated File[Panelized_THICCEST.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:25:56 AM On 2/19/2021

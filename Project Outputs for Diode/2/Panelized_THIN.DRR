@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Panelized_THIN.PcbDoc   2/26/2021  5:43:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panelized_THIN-RoundHoles.TXT
+ASCII SlotHoles File : Panelized_THIN-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      3.8mm (150mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T2      0.762mm (30mil)                                           Round             28        NPTH       0.00mm (0.00inch)
+T3      1mm (39mil)                                               Round             4         NPTH       0.00mm (0.00inch)
+T4      1.6mm (63mil)                                             Round             4         NPTH       0.00mm (0.00inch)
+T5      2mm (79mil)                                               Slot              12        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              52
+
+Total Processing Time (hh:mm:ss) : 00:00:00
